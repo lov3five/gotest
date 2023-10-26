@@ -7,3 +7,7 @@ func Hello(name string) string {
 	return message
 }
 
+func Bye() {
+	fmt.Print("Bye...")
+}
+
