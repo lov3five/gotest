@@ -8,6 +8,6 @@ func Hello(name string) string {
 }
 
 func Bye() {
-	fmt.Print("Bye...")
+	fmt.Printf("Bye...")
 }
 
